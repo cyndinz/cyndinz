@@ -1,10 +1,9 @@
-<!-- ### Hi there 
+### Hi there 
 
 Contributions:
 ![Snake animation](https://github.com/cyndinz/cyndinz/blob/output/github-contribution-grid-snake.svg)
 
 ![Page Count](https://github-profile-counter.glitch.me/cyndinz/count.svg)
-
 
 <!--
 **cyndinz/cyndinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,38 +18,44 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+ -->
 
 
 ## Hi there, I am Cyndi. Welcome to my wonderland 👋
 </br>
  <div>
- - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ - 🔭 I’m currently working on ...<br>
+- 🌱 I’m currently learning ...<br>
+- 👯 I’m looking to collaborate on ...<br>
+- 🤔 I’m looking for help with ...<br>
+- 💬 Ask me about ...<br>
+- 📫 How to reach me: ...<br>
+- 😄 Pronouns: ...<br>
+- ⚡ Fun fact: ...<br>
  </div>
+
+ 
+Contributions:
+![Snake animation](https://github.com/cyndinz/cyndinz/blob/output/github-contribution-grid-snake.svg)
+
+![Page Count](https://github-profile-counter.glitch.me/cyndinz/count.svg)
  
 
  <div>
   <a href="https://github.com/cyndinz">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eagrundy&layout=compact&langs_count=16&theme=dracula"/>
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyndinz&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyndinz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
  ## Skills
 <div style="display: inline_block"><br>
-  <img height="40" align="center" alt="Erica-Python" height="30" width="40" src="	https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
+  <img height="40" align="center" alt="Erica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<!--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> -->
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Erica-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -68,11 +73,4 @@ Here are some ideas to get you started:
   <a href = "mailto: envest.engineering@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
- 
- ## Contribution
- 
-  ![Snake animation](https://github.com/cyndinz/cyndinz/blob/output/github-contribution-grid-snake.svg)
-
-  ![Page Count](https://github-profile-counter.glitch.me/cyndinz/count.svg)
- 
 </div>
