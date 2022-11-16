@@ -21,6 +21,7 @@ Here are some ideas to get started:
 ## Hi there, I am Cyndi. Welcome to my wonderland 👋
 </br>
  <div>
+  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
  - 🔭 I’m currently working on AL development <br>
 - 🌱 I’m currently learning new language (yes a language to communicate with computer)<br>
 - 👯 I’m looking to collaborate on some cool projects <br>
@@ -28,14 +29,12 @@ Here are some ideas to get started:
 - 💬 Ask me about anything <br>
 - 📫 How to reach me: see contact below <br>
 - ⚡ Fun fact: I believe in the existence of intelligent life living on other planets <br>
- <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
  </div>
 
  
 ## Contributions
 ![Snake animation](https://github.com/cyndinz/cyndinz/blob/output/github-contribution-grid-snake.svg)
 
-![Page Count](https://github-profile-counter.glitch.me/cyndinz/count.svg)
  
 
  <div>
@@ -57,7 +56,6 @@ Here are some ideas to get started:
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
 </div>
   
 </br>
