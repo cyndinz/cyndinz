@@ -1,14 +1,13 @@
-### Hi there 
+<!-- ### Hi there 
 
 Contributions:
 ![Snake animation](https://github.com/cyndinz/cyndinz/blob/output/github-contribution-grid-snake.svg)
 
 ![Page Count](https://github-profile-counter.glitch.me/cyndinz/count.svg)
 
-<!--
 **cyndinz/cyndinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,26 +15,24 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+- ⚡ Fun fact: ... -->
 
 
 ## Hi there, I am Cyndi. Welcome to my wonderland 👋
 </br>
  <div>
- - 🔭 I’m currently working on ...<br>
-- 🌱 I’m currently learning ...<br>
-- 👯 I’m looking to collaborate on ...<br>
-- 🤔 I’m looking for help with ...<br>
-- 💬 Ask me about ...<br>
-- 📫 How to reach me: ...<br>
-- 😄 Pronouns: ...<br>
-- ⚡ Fun fact: ...<br>
+ - 🔭 I’m currently working on AL development <br>
+- 🌱 I’m currently learning new language (yes a language to communicate with computer)<br>
+- 👯 I’m looking to collaborate on some cool projects <br>
+- 🤔 I’m looking for help with code review <br>
+- 💬 Ask me about anything <br>
+- 📫 How to reach me: see contact below <br>
+- ⚡ Fun fact: I believe in the existence of intelligent life living on other planets <br>
+ <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
  </div>
 
  
-Contributions:
+## Contributions
 ![Snake animation](https://github.com/cyndinz/cyndinz/blob/output/github-contribution-grid-snake.svg)
 
 ![Page Count](https://github-profile-counter.glitch.me/cyndinz/count.svg)
@@ -65,7 +62,7 @@ Contributions:
   
 </br>
 
-## Contact 
+## Contacts
 <div> 
   <a href="https://www.linkedin.com/in/cyndi-chan-engineering/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--   <a href="https://twitter.com/cyndinz" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
