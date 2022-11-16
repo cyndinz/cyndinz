@@ -21,7 +21,7 @@ Here are some ideas to get started:
 ## Hi there, I am Cyndi. Welcome to my wonderland 👋
 </br>
  <div>
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media2.giphy.com/media/0Ha8plL2gMKx3cit7K/giphy360p.mp4?cid=ecf05e47k7yldfrg9gv30o7uaexl1r69t69ufn0a81x6pt04&rid=giphy360p.mp4&ct=v&cc=en">
+  <img align="right" height="180em" alt="Erica-yoda" src="https://media1.giphy.com/media/XK2TshNZgTx1JHF9A6/giphy.gif?cid=790b7611842a466eae10af45216acd1a31f6b690ba4f9cd8&rid=giphy.gif&ct=g">
  - 🔭 I’m currently working on AL development <br>
 - 🌱 I’m currently learning new language (yes a language to communicate with computer)<br>
 - 👯 I’m looking to collaborate on some cool projects <br>
