@@ -23,11 +23,11 @@ Here are some ideas to get started:
  <div>
   <img align="right" height="180em" alt="Erica-yoda" src="https://media1.giphy.com/media/XK2TshNZgTx1JHF9A6/giphy.gif?cid=790b7611842a466eae10af45216acd1a31f6b690ba4f9cd8&rid=giphy.gif&ct=g">
  - 🔭 I’m currently working on AL development <br>
-- 🌱 I’m currently learning new language (yes a language to communicate with computer)<br>
+- 🌱 I’m currently learning formal languages and compilers (yes a language to communicate with computer)<br>
 - 👯 I’m looking to collaborate on some cool projects <br>
 - 🤔 I’m looking for help with code review <br>
-- 💬 Ask me about anything <br>
-- 📫 How to reach me: see contact below <br>
+- 💬 Ask me about anything (but not gurantee answers) <br>
+- 📫 How to reach me: see contacts below or follow me on Github <br>
 - ⚡ Fun fact: I believe in the existence of intelligent life living on other planets <br>
  </div>
 
