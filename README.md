@@ -23,7 +23,7 @@ Here are some ideas to get started:
  <div>
   <img align="right" height="180em" alt="Erica-yoda" src="https://media0.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif?cid=790b76110785290144eac93263b6ffa60adf88ec129e8580&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on AL development <br>
-- 🌱 I’m currently learning formal languages and compilers (to communicate with computer better)<br>
+- 🌱 I’m currently learning formal languages and compilers <br>
 - 👯 I’m looking to collaborate on some cool projects <br>
 - 🤔 I’m looking for help with code review <br>
 - 💬 Ask me about anything (but not gurantee answers) <br>
