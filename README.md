@@ -21,7 +21,7 @@ Here are some ideas to get started:
 ### ***"At some point, everything’s gonna go south and you’re going to say, this is it. This is how I end. Now, you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one and then the next. And if you solve enough problems, you get to come home."***
 </br>
  <div>
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media1.giphy.com/media/XK2TshNZgTx1JHF9A6/giphy.gif?cid=790b7611842a466eae10af45216acd1a31f6b690ba4f9cd8&rid=giphy.gif&ct=g">
+  <img align="right" height="180em" alt="Erica-yoda" src="https://media1.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif?cid=ecf05e47fp26wrkrz93bfio52prz1chujwbqqwvlny986swl&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on AL development <br>
 - 🌱 I’m currently learning formal languages and compilers (to communicate with computer better)<br>
 - 👯 I’m looking to collaborate on some cool projects <br>
