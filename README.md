@@ -18,7 +18,7 @@ Here are some ideas to get started:
 - ⚡ Fun fact: ... -->
 
 
-## Hi there, I am Cyndi. Welcome to my wonderland 👋
+## "At some point, everything’s gonna go south and you’re going to say, this is it. This is how I end. Now, you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one and then the next. And if you solve enough problems, you get to come home."
 </br>
  <div>
   <img align="right" height="180em" alt="Erica-yoda" src="https://media1.giphy.com/media/XK2TshNZgTx1JHF9A6/giphy.gif?cid=790b7611842a466eae10af45216acd1a31f6b690ba4f9cd8&rid=giphy.gif&ct=g">
@@ -33,12 +33,12 @@ Here are some ideas to get started:
 
  
 ## Contributions
-![Snake animation](https://github.com/cyndinz/cyndinz/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/cyndinz/cyndinz/blob/output/github-contribution-grid-snake.svg) -->
 
 
  <div>
   <a href="https://github.com/cyndinz">
-   <img align="center" height="170" src="https://cyndinz.vercel.app/api/top-langs/?username=cyndinz&layout=compact&langs_count=16&theme=dracula"/>
+<!--    <img align="center" height="170" src="https://cyndinz.vercel.app/api/top-langs/?username=cyndinz&layout=compact&langs_count=16&theme=dracula"/> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyndinz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
@@ -54,7 +54,7 @@ Here are some ideas to get started:
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Erica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" align="center" alt="Erica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
 </br>
