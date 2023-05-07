@@ -20,8 +20,8 @@ Here are some ideas to get started:
 
 ### ***"At some point, everything’s gonna go south and you’re going to say, this is it. This is how I end. Now, you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one and then the next. And if you solve enough problems, you get to come home."***
 </br>
- <div>
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media0.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif?cid=790b76110785290144eac93263b6ffa60adf88ec129e8580&rid=giphy.gif&ct=g">
+ <div> 
+  <img align="right" height="180em" alt="Erica-yoda" src="[https://media0.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif?cid=790b76110785290144eac93263b6ffa60adf88ec129e8580&rid=giphy.gif&ct=g](https://media0.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e470u513837khocconxcotrzrnqvdzbfr1ucwfpemlj&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 - 🔭 I’m currently working on AL development <br>
 - 🌱 I’m currently learning formal languages and compilers <br>
 - 👯 I’m looking to collaborate on some cool projects <br>
