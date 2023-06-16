@@ -44,7 +44,7 @@ Here are some ideas to get started:
  <div>
   <a href="https://github.com/cyndinz">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyndinz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/> -->
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyndinz&theme=shadow_green&show_icons=true"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyndinz&theme=vue_dark&show_icons=true"/>
 
 </div>
  
