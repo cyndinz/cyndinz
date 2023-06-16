@@ -43,7 +43,7 @@ Here are some ideas to get started:
 
  <div>
   <a href="https://github.com/cyndinz">
-   <img align="center" height="170" src="https://cyndinz.vercel.app/api/top-langs/?username=cyndinz&layout=compact&langs_count=16&theme=dracula"/>
+<!--    <img align="center" height="170" src="https://cyndinz.vercel.app/api/top-langs/?username=cyndinz&layout=compact&langs_count=16&theme=dracula"/> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyndinz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
