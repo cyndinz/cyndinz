@@ -67,7 +67,7 @@ Here are some ideas to get started:
 ## Contacts
 <div> 
   <a href="https://www.linkedin.com/in/cyndi-chan-engineering/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/@Cyndinz/" target="_blank"><img src="https://img.shields.io/endpoint?label=youtube&logo=youtube&logoColor=red&url=https%3A%2F%2Fwww.youtube.com%2F%40Cyndinz" target="_blank"></a>
+<!--   <a href="https://www.youtube.com/@Cyndinz/" target="_blank"><img src="" target="_blank"></a> -->
   <a href = "mailto: envest.engineering@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
