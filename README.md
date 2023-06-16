@@ -45,6 +45,8 @@ Here are some ideas to get started:
   <a href="https://github.com/cyndinz">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cyndinz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"/>
+
 </div>
  
  ## Skills
