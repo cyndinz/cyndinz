@@ -2,8 +2,8 @@
 </br>
  <div> 
   <img align="right" height="180em" alt="Erica-yoda" src="https://media0.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e470u513837khocconxcotrzrnqvdzbfr1ucwfpemlj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-- 🔭 I’m currently working on AL development <br>
-- 🌱 I’m currently learning Artificial Intelligent and Operating System <br>
+- 📖 I’m currently reading Quantum Supremacy <br>
+- 💻 I’m currently learning Artificial Intelligent and Operating System <br>
 - 👯 I’m looking to collaborate on some cool projects <br>
 - 🤔 I’m looking for help with code review <br>
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
