@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on some cool projects <br>
 - 🤔 I’m looking for help with code review <br>
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
-- 👨‍🔬 My favourite scientist is Alan Turing 
+- 👨‍🔬 My favourite scientist is Alan Turing <br>
+- 📚 My favourite book is "Bad Blood: Secrets and Lies in a Silicon Valley Startup" <br>
 - 💬 Ask me about anything (but not gurantee answers) <br>
 - 📫 How to reach me: see contacts below or follow me on Github <br>
 - 👽 Fun fact: I believe in the existence of intelligent life living on other planets <br>
