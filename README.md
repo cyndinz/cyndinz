@@ -1,23 +1,3 @@
-<!-- ### Hi there 
-
-Contributions:
-![Snake animation](https://github.com/cyndinz/cyndinz/blob/output/github-contribution-grid-snake.svg)
-
-![Page Count](https://github-profile-counter.glitch.me/cyndinz/count.svg)
-
-**cyndinz/cyndinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 👽 Fun fact: ... -->
-
-
 ### ***"At some point, everything’s gonna go south and you’re going to say, this is it. This is how I end. Now, you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one and then the next. And if you solve enough problems, you get to come home."***
 </br>
  <div> 
@@ -26,7 +6,8 @@ Here are some ideas to get started:
 - 🌱 I’m currently learning Artificial Intelligent and Operating System <br>
 - 👯 I’m looking to collaborate on some cool projects <br>
 - 🤔 I’m looking for help with code review <br>
-- 🎞  My favourite TV shows are Billions/Person of Interest <br>
+- 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
+- 👨‍🔬 My favourite scientist is Alan Turing 
 - 💬 Ask me about anything (but not gurantee answers) <br>
 - 📫 How to reach me: see contacts below or follow me on Github <br>
 - 👽 Fun fact: I believe in the existence of intelligent life living on other planets <br>
