@@ -26,6 +26,7 @@ Here are some ideas to get started:
 - 🌱 I’m currently learning Artificial Intelligent and Operating System <br>
 - 👯 I’m looking to collaborate on some cool projects <br>
 - 🤔 I’m looking for help with code review <br>
+- 🎞  My favourite TV shows are Billions/Person of Interest <br>
 - 💬 Ask me about anything (but not gurantee answers) <br>
 - 📫 How to reach me: see contacts below or follow me on Github <br>
 - 👽 Fun fact: I believe in the existence of intelligent life living on other planets <br>
