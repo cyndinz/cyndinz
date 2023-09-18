@@ -5,7 +5,7 @@
 - 📖 I’m currently reading Quantum Supremacy <br>
 - 💻 I’m currently learning Artificial Intelligent and Operating System <br>
 - 👯 I’m looking to collaborate on some cool projects <br>
-- 🤔 I’m looking for help with code review <br>
+- 👀 I’m looking for help with code review <br>
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
 - 👨‍🔬 My favourite scientist is Alan Turing <br>
 - 📚 My favourite book is "Bad Blood: Secrets and Lies in a Silicon Valley Startup" <br>
