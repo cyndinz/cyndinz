@@ -10,7 +10,7 @@
 - 👨‍🔬 My favourite scientist is Alan Turing <br>
 - 📚 My favourite book is "Bad Blood: Secrets and Lies in a Silicon Valley Startup" <br>
 - 💬 Ask me about anything (but not gurantee answers) <br>
-- 📫 How to reach me: see contacts below or follow me on Github <br>
+- 📫 How to reach me: follow me on Github <br>
 - 👽 Fun fact: I believe in the existence of intelligent life living on other planets <br>
  </div>
 
@@ -45,12 +45,14 @@
 </div>
 </br>
 
-## Reach Out on LinkedIn or Gmail
-<div> 
-  <a href="https://www.linkedin.com/in/cyndi-chan-engineering/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<!--   <a href="https://www.youtube.com/@Cyndinz/" target="_blank"><img src="" target="_blank"></a> -->
+
+<!--## Reach Out on LinkedIn or Gmail-->
+<!--<div> 
+  <a href="https://www.linkedin.com/in/xxx/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/@xxx/" target="_blank"><img src="" target="_blank"></a>
   &nbsp;&nbsp;
-  <a href = "mailto: envest.engineering@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: xxx.xxx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </br>
 </br>
-</div>
+</div>-->
+
