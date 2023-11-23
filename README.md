@@ -13,11 +13,11 @@
 - 📫 How to reach me: follow me on Github <br>
 - 👽 Fun fact: I believe in the existence of intelligent life living on other planets <br>
  </div>
-
- </br>
  
  ## My Top Mascot Obsession
-  <img align="center" src="https://github.com/cyndinz/cyndinz/blob/main/Dashes.png"/>
+  <!--<img align="center" src="https://github.com/cyndinz/cyndinz/blob/main/Dashes.png"/>-->
+  <img align="center" src="https://github.com/cyndinz/cyndinz/blob/main/snoopy_woodstock.png"/>
+
 
  ## My Journey of Fun and Discovery
 <div style="display: inline_block"><br>
