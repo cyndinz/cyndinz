@@ -7,7 +7,7 @@
 - 👀 I’m looking for help with code review <br>
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
 - 👨‍🔬 My favourite scientist is Alan Turing <br>
-- 📚 My favourite book is "Bad Blood: Secrets and Lies in a Silicon Valley Startup" <br>
+- 📚 My favourite book is Bad Blood: Secrets and Lies in a Silicon Valley Startup <br>
 - 🚫 The activity I least enjoy is shopping <br>
 - 💬 Ask me about anything (but not gurantee answers) <br>
 - 📫 How to reach me: follow me on Github <br>
