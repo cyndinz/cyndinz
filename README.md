@@ -1,6 +1,6 @@
 ### ***"At some point, everything’s gonna go south and you’re going to say, this is it. This is how I end. Now, you can either accept that, or you can get to work. That’s all it is. You just begin. You do the math. You solve one problem and you solve the next one and then the next. And if you solve enough problems, you get to come home."***
  <div> 
-  <img align="right" height="180em" alt="Erica-yoda" src="https://media0.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e470u513837khocconxcotrzrnqvdzbfr1ucwfpemlj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img align="right" height="270em" alt="Erica-yoda" src="https://media0.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e470u513837khocconxcotrzrnqvdzbfr1ucwfpemlj&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 📖 I’m currently reading Heart to Start <br>
 - 💻 I’m currently learning logic and big data <br>
 - 👯 I’m looking to collaborate on some cool projects <br>
@@ -10,13 +10,13 @@
 - 📚 My favourite book is Bad Blood: Secrets and Lies in a Silicon Valley Startup <br>
 - 🚫 The activity I least enjoy is shopping <br>
 - 💬 Ask me about anything (but not gurantee answers) <br>
-- 📫 How to reach me: follow me on Github <br>
+- 📫 How to reach me: follow me on Github or see below <br>
 - 👽 Fun fact: I believe in the existence of intelligent life living on other planets <br>
  </div>
  
  ## My Top Mascot Obsession
   <!--<img align="center" src="https://github.com/cyndinz/cyndinz/blob/main/Dashes.png"/>-->
-  <img align="center" src="https://github.com/cyndinz/cyndinz/blob/main/snoopy_woodstock.png"/>
+  <img  height="170" align="center" src="https://github.com/cyndinz/cyndinz/blob/main/snoopy_woodstock.png"/>
 
 
  ## My Journey of Fun and Discovery
@@ -41,9 +41,11 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" align="center" alt="Erica-CSharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
 </div>
 </br>
+
+ ## [We Chat](https://www.wechat.com/)
+<img height="370" align="left" src="https://github.com/cyndinz/cyndinz/blob/main/Weixin.jpg"/>
 
 
 <!--## Reach Out on LinkedIn or Gmail-->
