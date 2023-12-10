@@ -49,7 +49,7 @@
 
  ## Shall [We Chat](https://www.wechat.com/)
  
-<img height="300" align="left" src="https://github.com/cyndinz/cyndinz/blob/main/Weixin.jpg"/>
+<img height="370" align="left" src="https://github.com/cyndinz/cyndinz/blob/main/Weixin.jpg"/>
  
 <video width="300" height="300" src="https://github.com/cyndinz/cyndinz/assets/73460539/501881f2-85c7-4265-bf2f-83f3fc05f7a6"></video>
 
