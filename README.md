@@ -47,11 +47,12 @@
 </br>
 
  ## Shall [We Chat](https://www.wechat.com/)
-<img height="300" align="left" src="https://github.com/cyndinz/cyndinz/blob/main/Weixin.jpg"/>
 
 
-https://github.com/cyndinz/cyndinz/assets/73460539/3a7bb2c8-a26d-4068-9820-2938e36c55d4
+https://github.com/cyndinz/cyndinz/assets/73460539/501881f2-85c7-4265-bf2f-83f3fc05f7a6
 
+
+<img height="300" align="right" src="https://github.com/cyndinz/cyndinz/blob/main/Weixin.jpg"/>
 
 
 
