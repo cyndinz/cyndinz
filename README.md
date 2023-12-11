@@ -47,16 +47,25 @@
 </br>
 
 
- ## Castle in the Sky
+<!-- ## Castle in the Sky
  
-<video width="300" src="https://github.com/cyndinz/cyndinz/assets/73460539/17fb84df-f0fa-4cd7-b6e1-c0354a359254"></video>
+<video width="300" src="https://github.com/cyndinz/cyndinz/assets/73460539/17fb84df-f0fa-4cd7-b6e1-c0354a359254"></video> -->
 
+<!--https://github.com/cyndinz/cyndinz/assets/73460539/8dd85b99-e410-436e-b75a-62199d87fbf1-->
+
+
+ ## What's in G Minor
+
+https://github.com/cyndinz/cyndinz/assets/73460539/a72b784b-a010-44c0-a138-b80bef037ebd
+
+<br>
 
  ## Shall [We Chat](https://www.wechat.com/)
 
 <img height="370" align="left" src="https://github.com/cyndinz/cyndinz/blob/main/Weixin.jpg"/>
 
-<video width="100" src="https://github.com/cyndinz/cyndinz/assets/73460539/0c45f676-d2af-4734-93f9-a3bd885afed7"></video>
+
+<!--https://github.com/cyndinz/cyndinz/assets/73460539/7b845937-9cd1-40d0-8c90-5afd1973d6f1-->
 
 
 
