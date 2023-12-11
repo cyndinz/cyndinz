@@ -56,6 +56,9 @@
 
 <img height="370" align="left" src="https://github.com/cyndinz/cyndinz/blob/main/Weixin.jpg"/>
 
+<video width="100" src="https://github.com/cyndinz/cyndinz/assets/73460539/0c45f676-d2af-4734-93f9-a3bd885afed7"></video>
+
+
 
 
 
