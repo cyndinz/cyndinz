@@ -2,7 +2,8 @@
  <div> 
   
   <!--<img align="right" height="250em" alt="Erica-yoda" src="https://media0.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e470u513837khocconxcotrzrnqvdzbfr1ucwfpemlj&ep=v1_gifs_search&rid=giphy.gif&ct=g">-->
-  <img align="right" height="275em" alt="Erica-yoda" src="https://media1.giphy.com/media/2KAGlmkPywhZS/giphy.gif?cid=ecf05e47a9cf3k43nb0ahwsl02aqdbcfpr496mv41h0a1rt1&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+  <!--<img align="right" height="275em" alt="Erica-yoda" src="https://media1.giphy.com/media/2KAGlmkPywhZS/giphy.gif?cid=ecf05e47a9cf3k43nb0ahwsl02aqdbcfpr496mv41h0a1rt1&ep=v1_gifs_related&rid=giphy.gif&ct=g">-->
+  <img align="right" height="285em" alt="Erica-yoda" src="https://i.giphy.com/xT0Gqcmc4NsPgBVQEU.webp">
 - 📖 I’m currently reading Heart to Start <br>
 - 💻 I’m currently learning logic and big data <br>
 - 👯 I’m looking to collaborate on some cool projects <br>
