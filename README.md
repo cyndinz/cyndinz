@@ -8,7 +8,7 @@
 
 - 📖 I’m currently reading The Hard Thing About Hard Things <br>
 - 💻 I’m currently learning logic and big data <br>
-- 👀 I’m looking for help with code review <br>
+- 👀 I’m looking for help with code review ALWAYS <br>
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
 - 👨‍🔬 My favourite scientist is Alan Turing <br>
 - 📚 My favourite book is Bad Blood: Secrets and Lies in a Silicon Valley Startup <br>
