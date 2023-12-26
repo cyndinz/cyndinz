@@ -3,7 +3,9 @@
   
   <!--<img align="right" height="250em" alt="Erica-yoda" src="https://media0.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e470u513837khocconxcotrzrnqvdzbfr1ucwfpemlj&ep=v1_gifs_search&rid=giphy.gif&ct=g">-->
   <!--<img align="right" height="275em" alt="Erica-yoda" src="https://media1.giphy.com/media/2KAGlmkPywhZS/giphy.gif?cid=ecf05e47a9cf3k43nb0ahwsl02aqdbcfpr496mv41h0a1rt1&ep=v1_gifs_related&rid=giphy.gif&ct=g">-->
-  <img align="right" height="260em" alt="Erica-yoda" src="https://i.giphy.com/xT0Gqcmc4NsPgBVQEU.webp">
+  <!--<img align="right" height="260em" alt="Erica-yoda" src="https://i.giphy.com/xT0Gqcmc4NsPgBVQEU.webp">-->
+  <img align="right" height="275em" alt="Erica-yoda" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0cDF1eGFiZW84b2l4anU2bXBrNzJrMHY4and1aW05aThzbzUxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84U1nWRzyqOEOKpa/giphy.gif">
+
 - 📖 I’m currently reading The Hard Thing About Hard Things <br>
 - 💻 I’m currently learning logic and big data <br>
 - 👯 I’m looking to collaborate on some cool projects <br>
