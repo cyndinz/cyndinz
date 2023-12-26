@@ -48,6 +48,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" align="center" alt="Erica-CSharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 </div>
 </br>
 
@@ -69,6 +70,9 @@ https://github.com/cyndinz/cyndinz/assets/73460539/a72b784b-a010-44c0-a138-b80be
 <img height="370" align="left" src="https://github.com/cyndinz/cyndinz/blob/main/Weixin.jpg"/>
 <!--https://github.com/cyndinz/cyndinz/assets/73460539/7b845937-9cd1-40d0-8c90-5afd1973d6f1-->
 
+<div>
+<sup>you might observe</sup> Only forked repos are visible. My personal repos? Oh, they're playing hide and seek! Curious? <sub>come and ask me about them</sub>
+</div>
 
 <!--## Reach Out on LinkedIn or Gmail-->
 <!--<div> 
