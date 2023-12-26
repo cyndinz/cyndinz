@@ -6,7 +6,7 @@
   <!--<img align="right" height="260em" alt="Erica-yoda" src="https://i.giphy.com/xT0Gqcmc4NsPgBVQEU.webp">-->
   <img align="right" height="270em" alt="Erica-yoda" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0cDF1eGFiZW84b2l4anU2bXBrNzJrMHY4and1aW05aThzbzUxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84U1nWRzyqOEOKpa/giphy.gif">
 
-- 📖 I’m currently reading The Hard Thing About Hard Things <br>
+- 📖 I’m reading The Hard Thing About Hard Things <br>
 - 💻 I’m learning logic and big data for 1.5 quarter of 2024 <br>
 - 👀 I’m looking for help with code review ALWAYS <br>
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
