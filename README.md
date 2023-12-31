@@ -73,7 +73,7 @@ https://github.com/cyndinz/cyndinz/assets/73460539/a72b784b-a010-44c0-a138-b80be
 <sup>you might observe</sup> Only forked repos are visible. My personal repos? Oh, they're playing hide and seek! Curious? <sub>come and ask me about them</sub>
 <br>
  <br>
-<sup>or maybe tell me what do you think about</sup> Beethoven's Symphony No. 9 <sub>?</sub>
+<sup>or</sup> Maybe tell me what do you think about</sup> Beethoven's <sub>Symphony No. 5</sub> and <sup>Symphony No. 9</sup> ?
 </div>
 
 <!--## Reach Out on LinkedIn or Gmail-->
