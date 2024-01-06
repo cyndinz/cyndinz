@@ -15,6 +15,7 @@
 - 🚫 The activity I least enjoy is shopping <br>
 - 🏃🏻‍♀️ There is nothing a workout can't work it out <br>
 - 👽 I believe in the existence of intelligent life living on other planets <br>
+- ⚠️ To avoid Caffeine fool my adenosine receptors, I am quitting coffee - day 1 <br>
 - 💬 Ask me about anything (but not gurantee answers) <br>
 - 📫 How to reach me: follow me on Github or see below <br>
  </div>
