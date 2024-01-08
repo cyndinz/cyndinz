@@ -12,13 +12,13 @@
 - 📖 I’m reading The Hard Thing About Hard Things <br>
 - 📈 I’m learning big data, data mining and logic for 1.5 quarter of 2024 <br>
 - 👀 I’m looking for help with code review <br>
+- ☕ I am quitting coffee (day 2), to avoid caffeine fool my adenosine receptors <br>
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
 - 👨‍🔬 My favourite scientist is Alan Turing <br>
 - 📚 My favourite book is Bad Blood: Secrets and Lies in a Silicon Valley Startup <br>
 - 🚫 The activity I least enjoy is shopping <br>
 - 🏃🏻‍♀️ There is nothing a workout can't work it out <br>
 - 👽 I believe in the existence of intelligent life living on other planets <br>
-- ⚠️ To avoid caffeine fool my adenosine receptors, I am quitting coffee - day 1 <br>
 - 💬 Ask me about anything (but not gurantee answers) <br>
 - 📫 How to reach me: follow me on Github or see below <br>
  </div>
