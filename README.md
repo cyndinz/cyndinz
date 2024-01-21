@@ -9,7 +9,7 @@
   
 
 - 📖 I’m reading The Hard Thing About Hard Things <br>
-- 📈 I’m learning big data, data mining and logic for 1.5 quarter of 2024 <br>
+- 📈 I’m learning big data and data mining for 1.5 quarter of 2024 <br>
 - 👀 I’m looking for help with code review <br>
 - ☕ I'm quitting coffee (day 11), to avoid caffeine fool my adenosine receptors <br>
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
