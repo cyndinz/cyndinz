@@ -7,7 +7,6 @@
   <!--<img align="right" height="280em" alt="Erica-yoda" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0cDF1eGFiZW84b2l4anU2bXBrNzJrMHY4and1aW05aThzbzUxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84U1nWRzyqOEOKpa/giphy.gif">-->
   <img align="right" height="270em" alt="Erica-yoda" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGk1ZDZzY2RvejlwYWdibHM4YXppN3QxeHF2NjNnN2V4Mnl0ZWk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2tX8wpWQ944q2n63n9/giphy.gif">
   
-
 - 📖 I’m reading The Hard Thing About Hard Things <br>
 - 📈 I’m learning big data and data mining for 1.5 quarter of 2024 <br>
 - 👀 I’m looking for help with code review <br>
