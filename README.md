@@ -10,7 +10,7 @@
 - 📖 I’m reading The Hard Thing About Hard Things <br>
 - 📈 I’m learning big data and data mining for 1.5 quarter of 2024 <br>
 - 👀 I’m looking for help with code review <br>
-- ☕ I'm quitting coffee (day 17), to avoid caffeine fool my adenosine receptors <br>
+- ☕ I'm quitting coffee (day 18), to avoid caffeine fool my adenosine receptors <br>
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
 - 👨‍🔬 My favourite scientist is Alan Turing <br>
 - 📚 My favourite book is Bad Blood: Secrets and Lies in a Silicon Valley Startup <br>
@@ -41,7 +41,6 @@
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" align="center" alt="Erica-CSharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <br>
   <img height="50" align="center" alt="Erica-CSharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" align="center" alt="Erica-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
