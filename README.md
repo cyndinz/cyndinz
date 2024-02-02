@@ -82,7 +82,11 @@ https://github.com/cyndinz/cyndinz/assets/73460539/a72b784b-a010-44c0-a138-b80be
 <sup>or</sup> Maybe tell me what do you think about</sup> Beethoven's <sub>Symphony No. 5</sub> and <sup>Symphony No. 9</sup> ?
 <br>
 <br>
-You can find out <sub>a little bit more</sub> about me on <sup>https://cyndinz.github.io/</sup>
+
+You can find out <sup>a little bit</sup> more [about me].
+
+[about me]: https://cyndinz.github.io
+ 
 </div>
 
 <!--## Reach Out on LinkedIn or Gmail-->
