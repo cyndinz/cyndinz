@@ -76,14 +76,14 @@ https://github.com/cyndinz/cyndinz/assets/73460539/a72b784b-a010-44c0-a138-b80be
 <!--https://github.com/cyndinz/cyndinz/assets/73460539/7b845937-9cd1-40d0-8c90-5afd1973d6f1-->
 
 <div>
-<sup>you might observe</sup> Only forked repos are visible. My personal repos? Oh, they're playing hide and seek! Curious? <sub>come and ask me about them</sub>
+You might observe only forked repos are visible. My personal repos? Oh, they're playing hide and seek! Curious? Come and ask me about them :)
 <br>
 <br>
-<sup>or</sup> Maybe tell me what do you think about</sup> Beethoven's <sub>Symphony No. 5</sub> and <sup>Symphony No. 9</sup> ?
+Maybe let's chat about what you think about Beethoven's Symphony No. 5 and Symphony No. 9 ?
 <br>
 <br>
 
-You can find out <sup>a little bit</sup> more [about me].
+A little bit more [about me].
 
 [about me]: https://cyndinz.github.io
  
