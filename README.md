@@ -76,10 +76,22 @@ https://github.com/cyndinz/cyndinz/assets/73460539/a72b784b-a010-44c0-a138-b80be
 <!--https://github.com/cyndinz/cyndinz/assets/73460539/7b845937-9cd1-40d0-8c90-5afd1973d6f1-->
 
 <div>
-You might observe only forked repos are visible. My personal repos? Oh, they're playing hide and seek! Curious? Come and ask me about them :)
+If you are interested in any of following topics, ping me please!
 <br>
 <br>
-Maybe let's chat about what you think about Beethoven's Symphony No. 5 and Symphony No. 9 ?
+<strong>Programming:</strong> Map/Reduce functional programming, Message-Passing, Threads, Locks and Atomics, Work Queues, Schedulers, Streaming, MPI, CUDA, DASK, SPARK 
+<br>
+<br>
+<strong>Algorithms:</strong> Divide and Conquer, Map, Reduce, Group By, Union, Intersection, Difference, Matrix-Vector and Matrix-Matrix Multiplication, Hashing, PageRank, Graphs, Leader Election, Consensus 
+<br>
+<br>
+<strong>Systems:</strong> SaaS, PaaS, IaaS, storage and networking architectures, virtual machines and their management, job scheduling, cloud resources, heterogenous processors 
+<br>
+<br>
+<strong>Data and Scale:</strong> 5 Vs (Variety, Velocity, Volume, Veracity, Value), Decomposition, Distributed Data Structures, Memory Hierarchy, Shared memory, Shared-nothing, distributed file systems, replication, communication cost, complexity theory 
+<br>
+<br>
+You might observe only forked repos are visible. My personal repos? Oh, they're playing hide and seek! Curious? Come ask me about them :) Or we can chat about Beethoven's Symphony No. 5 and Symphony No. 9?
 <br>
 <br>
 
