@@ -91,7 +91,7 @@ If you are interested in any of following topics, ping me please!
 <strong>Data and Scale:</strong> 5 Vs (Variety, Velocity, Volume, Veracity, Value), Decomposition, Distributed Data Structures, Memory Hierarchy, Shared memory, Shared-nothing, distributed file systems, replication, communication cost, complexity theory 
 <br>
 <br>
-You might observe only forked repos are visible. My personal repos? Oh, they're playing hide and seek! Curious? Come ask me about them :) Or we can chat about Beethoven's Symphony No. 5 and Symphony No. 9?
+You might observe only forked repos are visible. My personal repos? Oh, they're playing hide and seek! Curious? Come ask me about them :) 
 <br>
 <br>
 
