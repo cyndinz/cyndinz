@@ -77,22 +77,13 @@ https://github.com/cyndinz/cyndinz/assets/73460539/a72b784b-a010-44c0-a138-b80be
 <!--https://github.com/cyndinz/cyndinz/assets/73460539/7b845937-9cd1-40d0-8c90-5afd1973d6f1-->
 
 <div>
-If you are interested in any of following topics, ping me please!
+
 <br>
 <br>
-<strong>Programming:</strong> Map/Reduce functional programming, Message-Passing, Threads, Locks and Atomics, Work Queues, Schedulers, Streaming, MPI, CUDA, DASK, SPARK 
+If you try to search me in any social media platforms, you won't find much information of my personal activities.
 <br>
 <br>
-<strong>Algorithms:</strong> Divide and Conquer, Map, Reduce, Group By, Union, Intersection, Difference, Matrix-Vector and Matrix-Matrix Multiplication, Hashing, PageRank, Graphs, Leader Election, Consensus 
-<br>
-<br>
-<strong>Systems:</strong> SaaS, PaaS, IaaS, storage and networking architectures, virtual machines and their management, job scheduling, cloud resources, heterogenous processors 
-<br>
-<br>
-<strong>Data and Scale:</strong> 5 Vs (Variety, Velocity, Volume, Veracity, Value), Decomposition, Distributed Data Structures, Memory Hierarchy, Shared memory, Shared-nothing, distributed file systems, replication, communication cost, complexity theory 
-<br>
-<br>
-You might observe only forked repos are visible. My personal repos? Oh, they're playing hide and seek! Curious? Come ask me about them :) 
+I tend to avoid social media in any shape or form because I find the whole concept of social media is a waste of time.
 <br>
 <br>
 
