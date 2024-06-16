@@ -81,7 +81,7 @@ https://github.com/cyndinz/cyndinz/assets/73460539/a72b784b-a010-44c0-a138-b80be
 If you try to search me in any social media platforms, you won't find much information of my personal activities.
 <br>
 <br>
-I tend to avoid social media in any shape or form because I find the whole concept of social media is a waste of time.
+I tend to avoid social media in any shape or form because I find the whole concept of keeping up with social media is unrelaxing.
 <br>
 <br>
 
