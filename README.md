@@ -10,8 +10,7 @@
  
   
 - 📖 I’m reading the Airbnb Story and some sicence books <br>
-- 📈 I’m learning big data and data mining for 1.5 quarter of 2024 <br>
-- 🧿 I will be learning quantumn computing for the second half of 2024 <br>
+- 📈 I’m learning big data and data mining <br>
 - 👀 I’m looking for help with code review  <!--- ☕ I'm quitting coffee (day 42), to avoid caffeine fool my adenosine receptors <br>-->
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
 - 👨‍🔬 My favourite scientists are Alan Turing and Albert Einstein <br>
