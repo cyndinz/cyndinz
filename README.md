@@ -21,7 +21,6 @@
 - 💬 Ask me about anything (but not gurantee answers) <br>
 - 📫 How to reach me: follow me on Github or see below <br>
  </div>
-
  
  ## My Top Mascot Obsession
   <!--<img align="center" src="https://github.com/cyndinz/cyndinz/blob/main/Dashes.png"/>-->
