@@ -10,8 +10,8 @@
  
   
 - 📖 I’m reading the Airbnb Story and some sicence books <br>
-- 📈 I’m learning big data and data mining <br>
-- 👀 I’m looking for help with code review  <!--- ☕ I'm quitting coffee (day 42), to avoid caffeine fool my adenosine receptors <br>-->
+- 📈 I’m learning Quantumn Computing and Human-Computer Interaction <br>
+- 👀 I’m looking for help with code review  <!--- ☕q I'm quitting coffee (day 42), to avoid caffeine fool my adenosine receptors <br>-->
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
 - 👨‍🔬 My favourite scientists are Alan Turing and Albert Einstein <br>
 - 📚 My favourite book is Bad Blood: Secrets and Lies in a Silicon Valley Startup <br>
