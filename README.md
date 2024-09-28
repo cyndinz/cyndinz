@@ -17,7 +17,7 @@
 - 📚 My favourite book is Bad Blood: Secrets and Lies in a Silicon Valley Startup <br>
 - 🚫 The activity I least enjoy is shopping <br>
 - 🏃🏻‍♀️ There is nothing a workout can't work it out <br>
-- 👽 I believe in the existence of intelligent life living on other planets <br>
+- 👽 I believe in the existence of intelligent life in the universe <br>
 - 💬 Ask me about anything (but not gurantee answers) <br>
 - 📫 How to reach me: follow me on Github or see below <br>
  </div>
