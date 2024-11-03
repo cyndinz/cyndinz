@@ -96,7 +96,7 @@ A little bit more [about me].
   <a href="https://www.youtube.com/@xxx/" target="_blank"><img src="" target="_blank"></a>
   &nbsp;&nbsp;
   <a href = "mailto: xxx.xxx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
+
 </br>
 </div>-->
 
