@@ -9,7 +9,7 @@
   <img align="right" height="270em" alt="Erica-yoda" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzbmMzY3lwMnl2MnU0ZTU5aGgwZXhldnl0enl0MjFjZ2l4cnAwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YqopropuC719C/giphy.gif">
  
  
-- 📖 I’m reading Six Easy Pieces <br>
+- 📖 I’m reading Psychology for Sustainability <br>
 - 📈 I’m learning Environmental Psychology <br>
 - 👀 I’m looking for help with code review  <!--- ☕q I'm quitting coffee (day 42), to avoid caffeine fool my adenosine receptors <br>-->
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
