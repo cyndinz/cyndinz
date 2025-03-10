@@ -28,7 +28,6 @@
   <img  height="177" align="center" src="https://github.com/cyndinz/cyndinz/blob/main/snoopy_woodstock.png"/>
 
 
-
  ## My Journey of Fun and Discovery
 <div style="display: inline_block"><br>
   <img height="50" align="center" alt="Erica-Python" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
