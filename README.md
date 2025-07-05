@@ -68,27 +68,23 @@ https://github.com/cyndinz/cyndinz/assets/73460539/a72b784b-a010-44c0-a138-b80be
 <br>
 
 
+
  ## Shall [We Chat](https://www.wechat.com/)
-
-<img height="370" align="left" src="https://github.com/cyndinz/cyndinz/blob/main/Weixin.jpg"/>
-<!--https://github.com/cyndinz/cyndinz/assets/73460539/7b845937-9cd1-40d0-8c90-5afd1973d6f1-->
-
 <div>
-
-<br>
 <br>
 If you try to search me in any social media platforms, you won't find much information of my personal activities.
 <br>
-<br>
 I tend to avoid social media in any shape or form because I find the whole concept of social media is not fun.
-<br>
 <br>
 
 A little bit more [about me].
 
 [about me]: https://cyndinz.github.io
- 
 </div>
+
+<img height="370" align="bottom" src="https://github.com/cyndinz/cyndinz/blob/main/Weixin.jpg"/>
+<!--https://github.com/cyndinz/cyndinz/assets/73460539/7b845937-9cd1-40d0-8c90-5afd1973d6f1-->
+
 
 <!--## Reach Out on LinkedIn or Gmail-->
 <!--<div> 
