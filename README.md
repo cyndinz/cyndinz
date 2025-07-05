@@ -6,7 +6,7 @@
   <!--<img align="right" height="260em" alt="Erica-yoda" src="https://i.giphy.com/xT0Gqcmc4NsPgBVQEU.webp">-->
   <!--<img align="right" height="280em" alt="Erica-yoda" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXR0cDF1eGFiZW84b2l4anU2bXBrNzJrMHY4and1aW05aThzbzUxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84U1nWRzyqOEOKpa/giphy.gif">-->
   <!--<img align="right" height="280em" alt="Erica-yoda" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGk1ZDZzY2RvejlwYWdibHM4YXppN3QxeHF2NjNnN2V4Mnl0ZWk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2tX8wpWQ944q2n63n9/giphy.gif">-->
-  <img align="right" height="270em" alt="Erica-yoda" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzbmMzY3lwMnl2MnU0ZTU5aGgwZXhldnl0enl0MjFjZ2l4cnAwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YqopropuC719C/giphy.gif">
+  <!--<img align="right" height="270em" alt="Erica-yoda" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzbmMzY3lwMnl2MnU0ZTU5aGgwZXhldnl0enl0MjFjZ2l4cnAwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YqopropuC719C/giphy.gif">-->
  
 
 - 📖 I’m reading Quantum Supremacy <br>
