@@ -10,7 +10,7 @@
  
 
 - 📖 I’m reading Quantum Supremacy <br>
-- 📈 I’m learning Big Data and Machine Learning <br>
+- 📈 I’m learning Big Data and Machine Learning Tools and Techniques <br>
 - 👀 I’m looking for help with code review  <!--- ☕q I'm quitting coffee (day 42), to avoid caffeine fool my adenosine receptors <br>-->
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
 - 👨‍🔬 My favourite scientists are Alan Turing and Albert Einstein <br>
