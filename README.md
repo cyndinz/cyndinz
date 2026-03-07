@@ -24,7 +24,7 @@
  
  ## My Top Mascot Obsession
   <!--<img align="center" src="https://github.com/cyndinz/cyndinz/blob/main/Dashes.png"/>-->
-  <img  height="177" align="center" src="https://github.com/cyndinz/cyndinz/blob/main/snoopy_woodstock.png"/>
+  <img  height="177" align="center" src="https://github.com/cyndinz/cyndinz/blob/main/snoopy_octocat.png"/>
 
 
 ## My Journey of Fun and Discovery
