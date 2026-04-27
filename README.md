@@ -28,52 +28,9 @@
 
 ## My Journey of Fun and Discovery
 
-<div style="display: inline_block"><br>
-
-  <!-- Line 1: Programming Languages -->
-  <img height="50" align="center" alt="Erica-Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img height="50" align="center" alt="Erica-Java" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img height="50" align="center" alt="Erica-Js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img height="50" align="center" alt="Erica-C" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img height="50" align="center" alt="Erica-CSharp" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img height="80" align="center" alt="Erica-Dart" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-   <img height="50" align="center" alt="Erica-AL" width="40" src="https://github.com/cyndinz/cyndinz/blob/main/AL_ext_logo.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <br><br>
-
-  <!-- Line 2: Platforms / Tools / IDEs -->
-
-  <img height="50" align="center" alt="Erica-RaspberryPi" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img height="50" align="center" alt="Erica-Firebase" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img height="50" align="center" alt="Erica-Flutter" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img height="80" align="center" alt="Erica-AndroidStudio" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img height="50" align="center" alt="Erica-IntelliJ" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img height="40" align="center" alt="Erica-VSCode" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cs,dart,pytorch,sklearn,firebase,flutter,androidstudio,idea,vscode,azure" />
+</p>
 
 </br>
 
