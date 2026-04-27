@@ -9,8 +9,7 @@
   <!--<img align="right" height="270em" alt="Erica-yoda" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RzbmMzY3lwMnl2MnU0ZTU5aGgwZXhldnl0enl0MjFjZ2l4cnAwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YqopropuC719C/giphy.gif">-->
  
 
-- 📖 I’m reading Quantum Supremacy <br>
-- 📈 I’m learning Big Data and Machine Learning Tools and Techniques <br>
+- 📖 I’m learning Quantum Machanics <br>
 - 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
 - 👨‍🔬 My favourite scientists are Alan Turing and Albert Einstein <br>
 - 🚫 The activity I least enjoy is shopping <br>
