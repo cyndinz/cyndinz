@@ -10,7 +10,7 @@
  
 
 - 📖 I’m learning Quantum Machanics <br>
-- 🎞  My favourite TV shows are Billions, Sherlock and Person of Interest <br>
+- 🎞  My favourite TV shows are All Creatures Great & Small, Sherlock, Billions and Person of Interest <br>
 - 👨‍🔬 My favourite scientists are Alan Turing and Albert Einstein <br>
 - 🚫 The activity I least enjoy is shopping <br>
 - 🏃🏻‍♀️ There is nothing a workout can't work it out <br>
